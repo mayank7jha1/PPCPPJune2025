@@ -85,40 +85,7 @@ int main() {
 
 
 
-	// girish
-	// istatv
-	// harshit
-	// dishan
-	// aditya
-	// krish
-	// akshay
-	// amit
-
-	// aditi
-	// arushi
-	// yatika
-	// anjali
-	// panchmi
-	// priyal
-	// ishan
-	// hivam
-	// utst
-	// pransan
-	// madav
-	// gauransh
-	// ram
-	// saurabh
-	// karitk
-	// anvee
-	// tanisha
-	// katyani
-	// harshitharsh
-	// yuvraj
-	// dhrV
-
-
-
-
+	
 
 
 
