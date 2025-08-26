@@ -275,8 +275,6 @@ void bfs(TreeNode<int>*root) {
 
 }
 
-
-
 void bfs2(TreeNode<int>*root) {
 
 	queue<TreeNode<int>*>q;
@@ -307,9 +305,6 @@ void bfs2(TreeNode<int>*root) {
 			if (f->right != NULL) {
 				q.push(f->right);
 			}
-
 		}
-
 	}
-
 }
