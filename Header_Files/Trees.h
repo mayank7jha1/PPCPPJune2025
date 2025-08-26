@@ -514,7 +514,7 @@ TreeNode<int>* lowestCommonAncestor(TreeNode<int>* root, TreeNode<int>* p, TreeN
 	return leftlca;
 }
 
-
+//For BST:
 TreeNode<int>* lowestCommonAncestor2(TreeNode<int>* root, TreeNode<int>* p, TreeNode<int>* q) {
 
 	if (root == NULL) {
@@ -692,3 +692,4 @@ TreeNode<int>* buildFromBfs(vector<int>&a, int i) {
 
 	return root;
 }
+
