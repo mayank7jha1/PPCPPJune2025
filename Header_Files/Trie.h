@@ -78,7 +78,7 @@ public:
 	string LongestCommonPrefix(string &str) {
 
 		cout << number << endl;
-		TrieNode *n = root;
+		TrieNode *temp = root;
 		string ans = "";
 		for (auto ch : str) {
 			temp = temp->childMap[ch];
